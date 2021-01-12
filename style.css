@@ -1,0 +1,78 @@
+body {
+    /* font-family: "Open Sans", sans-serif; */
+}
+h1, h2, h3{
+    font-weight: 600;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 20px;
+}
+.custom-btn {
+    font-size: 16;
+    color: white;
+    padding: 8px 25px;
+    border-radius: 10px;
+    background-image: linear-gradient(#ff5499, #ff1872);
+}
+.custom-carousel {
+    background-color: #feeae9;
+    height: 480px;
+    border-radius: 10px;
+    margin: 90px 0;
+}
+.custom-category {
+    color: white;
+    border-radius: 10px;
+    padding: 0;
+    margin-bottom: 100px;
+}
+.custom-category img {
+    width: 100px;
+}
+.custom-category-1 {
+    height: 120px;
+    background-color: #ffa500 !important;
+    border-radius: 10px;
+}
+.custom-category-2 {
+    height: 120px;
+    background-color: #da70d6 !important;
+    border-radius: 10px;
+}
+.col .custom-category-3 {
+    height: 120px;
+    background-color: #0000ff !important;
+    border-radius: 10px;
+}
+.custom-card {
+    border: 0;
+    border-radius: 10px;
+}
+.custom-card-footer {
+    background: white;
+    border: 0;
+    border-radius: 10px;
+}
+#backpack{
+    margin: 100px 0;
+}
+#subscribe {
+    background-color: #fceae8;
+    height: 300px;
+    border-radius: 10px;
+    margin: 100px 0;
+}
+.custom-subscribe h5{
+    font-size: 16px;
+    color: grey;
+}
+.custom-subscribe input{
+    outline: none;
+    height: 40px;
+    width: 300px;
+    border: none;
+    border-radius: 5px;
+}
